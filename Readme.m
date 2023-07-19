@@ -2,7 +2,7 @@
 % Factor Group-Sparse Regularization for Efficient Low-Rank Matrix
 % Recovery. Jicong Fan, Lijun Ding, Yudong Chen, Madeleine Udell. NeurIPS
 % 2019.
-% Written by Jicong Fan, 09/2019. E-mail: jf577@cornell.edu
+% Written by Jicong Fan, 09/2019. E-mail: fanjicong@cuhk.edu.cn
 
 MC_FGSR_ADMM noiseless matrix completion FGSR-2/3 or FGSR-1/2
 MC_FGSR_PALM noisy matrix completion FGSR-2/3 or FGSR-1/2
